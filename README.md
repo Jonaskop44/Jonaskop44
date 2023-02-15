@@ -2,7 +2,7 @@
   <a href="https://discord.com/Jonaskop44#9391" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="85" height="35" alt="discord logo"  />
   </a>
-  <a href="stackoverflow.com/users/21220336" target="_blank">
+  <a href="https://stackoverflow.com/users/21220336/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="85" height="35" alt="stackoverflow logo"  />
   </a>
 </div>
