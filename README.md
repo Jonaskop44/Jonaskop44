@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<img src="https://github.com/Jonaskop44/Jonaskop44/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+![snake gif](https://github.com/Jonaskop44/Jonaskop44/blob/output/github-contribution-grid-snake.gif)
 
 ## 🚀 Technologies & Tools
 
