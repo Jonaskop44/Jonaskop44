@@ -12,7 +12,7 @@
   </a>
 </p>
 
-![snake gif](https://github.com/Jonaskop44/Jonaskop44/blob/output/github-contribution-grid-snake.gif)
+![github contribution grid snake animation](https://raw.githubusercontent.com/don-cryptus/don-cryptus/output/github-contribution-grid-snake-dark.svg)
 
 ## 🚀 Technologies & Tools
 
@@ -21,6 +21,7 @@
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
+![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
 ### Technologies & Frameworks
 
@@ -35,8 +36,8 @@
 ![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
 ![javafx](https://custom-icon-badges.herokuapp.com/badge/javafx-black.svg?logo=java&logoColor=white&style=flat-square)
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
-![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
 ![puppeteer](https://img.shields.io/badge/puppeteer-black?style=flat-square&logo=puppeteer)
+![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 
 ### DevOps & Tools
@@ -48,6 +49,7 @@
 ![windows](https://img.shields.io/badge/windows-black?style=flat-square&logo=windows&logoColor=0078D6)
 ![linux](https://img.shields.io/badge/linux-black?style=flat-square&logo=linux)
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
+![gitlab](https://img.shields.io/badge/gitlab-black?style=flat-square&logo=gitlab)
 ![github actions](https://img.shields.io/badge/github_actions-black?style=flat-square&logo=github-actions)
 ![mongodb](https://img.shields.io/badge/mongodb-black?style=flat-square&logo=mongodb)
 ![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
@@ -56,6 +58,35 @@
 ## ⚡ GitHub Stats
 
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dark&locale=en&hide_border=false&username=Jonaskop44" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&username=Jonaskop44" height="150" alt="languages graph"  />
+    <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=jonaskop44&hide_border=true&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api?username=jonaskop44&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&hide_rank=true&icon_color=fa8b00&theme=dark" />
+    <img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonaskop44&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=dark" />
 </p>
+
+## ⭐ My Projects
+
+<details>
+  <summary><b>🛡️ &nbsp;Discord</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Jonaskop44/Discord-Helper">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=jonaskop44&repo=Discord-Helper&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+    <a href="https://github.com/Jonaskop44/Discord-Cashsystem">
+     <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=jonaskop44&repo=Discord-Cashsystem&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+  </p>
+</details>
+
+<details>
+  <summary><b>🌐 &nbsp;Websites</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Jonaskop44/Adminpanel">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=jonaskop44&repo=Adminpanel&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+    <a href="https://github.com/Jonaskop44/CodeFlexx">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonaskop44&repo=CodeFlexx&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+    </a>
+  </p>
+</details>
