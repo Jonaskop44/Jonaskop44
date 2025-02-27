@@ -19,7 +19,6 @@
 ### Languages
 
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
@@ -38,6 +37,7 @@
 ![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
 ![socketio](https://custom-icon-badges.herokuapp.com/badge/socketio-black.svg?logo=socketio&logoColor=white&style=flat-square)
 ![javafx](https://custom-icon-badges.herokuapp.com/badge/javafx-black.svg?logo=java&logoColor=white&style=flat-square)
+![expo](https://img.shields.io/badge/expo-black?style=flat-square&logo=expo)
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
 ![puppeteer](https://img.shields.io/badge/puppeteer-black?style=flat-square&logo=puppeteer)
 ![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
