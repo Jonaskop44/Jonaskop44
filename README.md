@@ -42,6 +42,7 @@
 ![puppeteer](https://img.shields.io/badge/puppeteer-black?style=flat-square&logo=puppeteer)
 ![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
+![stripe](https://img.shields.io/badge/stripe-black?style=flat-square&logo=stripe)
 
 ### DevOps & Tools
 
