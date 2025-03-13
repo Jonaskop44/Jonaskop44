@@ -1,16 +1,18 @@
 <p align="center">
   <a href="https://github.com/Jonaskop44?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/Jonaskop44"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=4caf50&labelColor=388e3c&label=stars&query=$.stars&url=https://api.github-star-counter.workers.dev/user/Jonaskop44"/>
   </a>
   <a href="https://github.com/Jonaskop44?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff0013&labelColor=ae1206&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/Jonaskop44"/>
+    <img alt="total stars" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=ff5722&labelColor=bf360c&label=forks&query=$.forks&url=https://api.github-star-counter.workers.dev/user/Jonaskop44"/>
   </a>
   <a href="https://github.com/Jonaskop44?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Jonaskop44?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Jonaskop44?color=2196f3&labelColor=1976d2&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
   <a href="https://github.com/Jonaskop44/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Jonaskop44&style=for-the-badge&color=lightgrey"/>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=Jonaskop44&style=for-the-badge&color=9e9e9e"/>
   </a>
 </p>
+
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/jonaskop44/jonaskop44/output/github-contribution-grid-snake-dark.svg)
 
@@ -62,6 +64,7 @@
 ![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
 ![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
+![insomnia](https://img.shields.io/badge/insomnia-black?style=flat-square&logo=insomnia)
 ![wordpress](https://img.shields.io/badge/wordpress-black?style=flat-square&logo=wordpress)
 
 ## ⚡ GitHub Stats
