@@ -98,7 +98,7 @@
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=jonaskop44&repo=Adminpanel&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
     <a href="https://github.com/Jonaskop44/CodeFlexx-Old">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonaskop44&repo=CodeFlexx&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonaskop44&repo=CodeFlexx-Old&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
     </a>
     <a href="https://github.com/Jonaskop44/DiscordID2IP">
       <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Jonaskop44&repo=DiscordID2IP&theme=react&bg_color=151515&title_color=fff&icon_color=fa8b00&hide_border=true&show_icons=false" />
