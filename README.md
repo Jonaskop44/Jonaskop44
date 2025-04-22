@@ -22,6 +22,7 @@
 
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
 ![java](https://custom-icon-badges.herokuapp.com/badge/java-black.svg?logo=java&logoColor=white&style=flat-square)
+![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 ![bash](https://img.shields.io/badge/bash-black?style=flat-square&logo=gnu-bash)
 
 ### Technologies & Frameworks
@@ -34,6 +35,7 @@
 ![react-native](https://img.shields.io/badge/react_native-black?style=flat-square&logo=react)
 ![next.js](https://img.shields.io/badge/next.js-black?style=flat-square&logo=next.js)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
+![django](https://img.shields.io/badge/django-black?style=flat-square&logo=django)
 ![prisma](https://img.shields.io/badge/prisma-black?style=flat-square&logo=prisma&logoColor=2D3748)
 ![discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
 ![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
