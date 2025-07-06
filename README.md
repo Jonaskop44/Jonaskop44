@@ -47,6 +47,7 @@
 ![selenium](https://img.shields.io/badge/selenium-black?style=flat-square&logo=selenium)
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 ![stripe](https://img.shields.io/badge/stripe-black?style=flat-square&logo=stripe)
+![laravel](https://img.shields.io/badge/laravel-black?style=flat-square&logo=laravel)
 
 ### DevOps & Tools
 
