@@ -48,6 +48,9 @@
 ![bootstrap](https://img.shields.io/badge/bootstrap-black?style=flat-square&logo=bootstrap)
 ![stripe](https://img.shields.io/badge/stripe-black?style=flat-square&logo=stripe)
 ![laravel](https://img.shields.io/badge/laravel-black?style=flat-square&logo=laravel)
+![spring](https://img.shields.io/badge/spring-black?style=flat-square&logo=spring)
+![hibernate](https://img.shields.io/badge/hibernate-black?style=flat-square&logo=hibernate)
+![angular](https://img.shields.io/badge/angular-black?style=flat-square&logo=angular&logoColor=DD0031)
 
 ### DevOps & Tools
 
